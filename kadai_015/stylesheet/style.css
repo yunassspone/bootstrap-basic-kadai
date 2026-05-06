@@ -16,7 +16,6 @@ p {
   font-weight: 100;
   font-style: normal;
   font-size: 14px;
-
 }
 
 .section_title {
@@ -210,10 +209,6 @@ p {
 
 .chef_bg {
   background-color: #fdf5e6;
-}
-
-.name {
-  margin-bottom: 1rem;
 }
 
 .chef_img {
